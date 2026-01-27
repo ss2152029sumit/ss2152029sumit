@@ -80,6 +80,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ss2152029sumit&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss2152029sumit&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ss2152029sumit/ss2152029sumit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 📫 Let's Connect
